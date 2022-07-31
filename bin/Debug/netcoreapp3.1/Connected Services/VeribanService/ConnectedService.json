@@ -1,0 +1,67 @@
+﻿{
+  "ProviderId": "Microsoft.VisualStudio.ConnectedService.Wcf",
+  "Version": "15.0.40203.910",
+  "ExtendedData": {
+    "inputs": [
+      "../../../../../../Desktop/E-Adisyon Örnek/Connected Services/IntegrationServiceRef/IntegrationService.wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, VeribanService"
+    ],
+    "references": [
+      "Microsoft.AspNetCore.Hosting.WindowsServices, {Microsoft.AspNetCore.Hosting.WindowsServices, 3.1.12}",
+      "Microsoft.Bcl.AsyncInterfaces, {Microsoft.Bcl.AsyncInterfaces, 5.0.0}",
+      "Microsoft.Data.SqlClient, {Microsoft.Data.SqlClient, 2.0.1}",
+      "Microsoft.EntityFrameworkCore, {Microsoft.EntityFrameworkCore, 5.0.12}",
+      "Microsoft.EntityFrameworkCore.Abstractions, {Microsoft.EntityFrameworkCore.Abstractions, 5.0.12}",
+      "Microsoft.EntityFrameworkCore.Relational, {Microsoft.EntityFrameworkCore.Relational, 5.0.12}",
+      "Microsoft.EntityFrameworkCore.SqlServer, {Microsoft.EntityFrameworkCore.SqlServer, 5.0.12}",
+      "Microsoft.Extensions.Caching.Abstractions, {Microsoft.Extensions.Caching.Abstractions, 5.0.0}",
+      "Microsoft.Extensions.Caching.Memory, {Microsoft.Extensions.Caching.Memory, 5.0.0}",
+      "Microsoft.Extensions.Configuration.Abstractions, {Microsoft.Extensions.Configuration.Abstractions, 5.0.0}",
+      "Microsoft.Extensions.DependencyInjection, {Microsoft.Extensions.DependencyInjection, 5.0.2}",
+      "Microsoft.Extensions.DependencyInjection.Abstractions, {Microsoft.Extensions.DependencyInjection.Abstractions, 5.0.0}",
+      "Microsoft.Extensions.Logging, {Microsoft.Extensions.Logging, 5.0.0}",
+      "Microsoft.Extensions.Logging.Abstractions, {Microsoft.Extensions.Logging.Abstractions, 5.0.0}",
+      "Microsoft.Extensions.ObjectPool, {Microsoft.Extensions.ObjectPool, 5.0.10}",
+      "Microsoft.Extensions.Options, {Microsoft.Extensions.Options, 5.0.0}",
+      "Microsoft.Extensions.Primitives, {Microsoft.Extensions.Primitives, 5.0.0}",
+      "Microsoft.IdentityModel.JsonWebTokens, {Microsoft.IdentityModel.JsonWebTokens, 5.6.0}",
+      "Microsoft.IdentityModel.Logging, {Microsoft.IdentityModel.Logging, 5.6.0}",
+      "Microsoft.IdentityModel.Protocols, {Microsoft.IdentityModel.Protocols, 5.6.0}",
+      "Microsoft.IdentityModel.Protocols.OpenIdConnect, {Microsoft.IdentityModel.Protocols.OpenIdConnect, 5.6.0}",
+      "Microsoft.IdentityModel.Tokens, {Microsoft.IdentityModel.Tokens, 5.6.0}",
+      "Microsoft.OpenApi, {Microsoft.OpenApi, 1.2.3}",
+      "Newtonsoft.Json, {Newtonsoft.Json, 13.0.1}",
+      "Swashbuckle.AspNetCore.Swagger, {Swashbuckle.AspNetCore.Swagger, 6.2.3}",
+      "Swashbuckle.AspNetCore.SwaggerGen, {Swashbuckle.AspNetCore.SwaggerGen, 6.2.3}",
+      "Swashbuckle.AspNetCore.SwaggerUI, {Swashbuckle.AspNetCore.SwaggerUI, 6.2.3}",
+      "System.Collections.Immutable, {System.Collections.Immutable, 5.0.0}",
+      "System.ComponentModel.Annotations, {System.ComponentModel.Annotations, 5.0.0}",
+      "System.Diagnostics.DiagnosticSource, {System.Diagnostics.DiagnosticSource, 5.0.1}",
+      "System.Diagnostics.EventLog, {System.Diagnostics.EventLog, 4.7.0}",
+      "System.Drawing.Common, {System.Drawing.Common, 5.0.0}",
+      "System.IdentityModel.Tokens.Jwt, {System.IdentityModel.Tokens.Jwt, 5.6.0}",
+      "System.Reflection.DispatchProxy, {System.Reflection.DispatchProxy, 4.7.1}",
+      "System.Security.AccessControl, {System.Security.AccessControl, 5.0.0}",
+      "System.Security.Cryptography.Cng, {System.Security.Cryptography.Cng, 5.0.0}",
+      "System.Security.Cryptography.Xml, {System.Security.Cryptography.Xml, 5.0.0}",
+      "System.Security.Permissions, {System.Security.Permissions, 5.0.0}",
+      "System.Security.Principal.Windows, {System.Security.Principal.Windows, 5.0.0}",
+      "System.ServiceModel, {System.ServiceModel.Primitives, 4.9.0}",
+      "System.ServiceModel.Duplex, {System.ServiceModel.Duplex, 4.4.4}",
+      "System.ServiceModel.Http, {System.ServiceModel.Http, 4.4.4}",
+      "System.ServiceModel.NetTcp, {System.ServiceModel.NetTcp, 4.4.4}",
+      "System.ServiceModel.Primitives, {System.ServiceModel.Primitives, 4.9.0}",
+      "System.ServiceModel.Security, {System.ServiceModel.Security, 4.4.4}",
+      "System.ServiceProcess.ServiceController, {System.ServiceProcess.ServiceController, 4.7.0}",
+      "System.Windows.Extensions, {System.Windows.Extensions, 5.0.0}"
+    ],
+    "targetFramework": "netcoreapp3.1",
+    "typeReuseMode": "All"
+  }
+}
