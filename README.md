@@ -1,4 +1,4 @@
-# 🍔 Order Food API Asp.Net Core
+# 🍔 Order Food API ASP.NET Core
 
 In this project Swagger UI,  MSSQL Database and Entity Framework Used
 
