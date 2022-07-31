@@ -11,6 +11,7 @@ In this project Swagger UI,  MSSQL Database and Entity Framework Used
 
 ## 🛠 Built With
 
+- [Asp.Net Core API](https://docs.microsoft.com/tr-tr/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0f)
 - [Swagger UI](https://swagger.io/)
 - [Entity Framework](https://docs.microsoft.com/tr-tr/ef/)
 - [MSSQL](https://www.microsoft.com/tr-tr/sql-server/sql-server-2019)
