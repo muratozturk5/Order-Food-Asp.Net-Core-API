@@ -277,7 +277,6 @@ C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Debug\netcoreapp3.1
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Debug\netcoreapp3.1\OrderFoodAPI.Views.dll
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Debug\netcoreapp3.1\OrderFoodAPI.Views.pdb
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
-C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Debug\netcoreapp3.1\Ionic.Zip.dll
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll

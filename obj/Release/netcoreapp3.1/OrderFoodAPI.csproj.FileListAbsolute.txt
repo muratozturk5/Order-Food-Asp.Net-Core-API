@@ -270,7 +270,6 @@ C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Release\netcoreapp3
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Release\netcoreapp3.1\OrderFoodAPI.Views.dll
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Release\netcoreapp3.1\OrderFoodAPI.Views.pdb
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Release\netcoreapp3.1\Humanizer.dll
-C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Release\netcoreapp3.1\Ionic.Zip.dll
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Release\netcoreapp3.1\Microsoft.ApplicationInsights.dll
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Release\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\bin\Release\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
@@ -419,8 +418,6 @@ C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\obj\Release\netcoreapp3
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\obj\Release\netcoreapp3.1\OrderFoodAPI.TagHelpers.input.cache
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\obj\Release\netcoreapp3.1\OrderFoodAPI.TagHelpers.output.cache
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\obj\Release\netcoreapp3.1\OrderFoodAPI.RazorCoreGenerate.cache
-C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\obj\Release\netcoreapp3.1\Razor\Views\Home\Settings.cshtml.g.cs
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\EarthApp\source\repos\OrderFoodAPI\OrderFoodAPI\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs

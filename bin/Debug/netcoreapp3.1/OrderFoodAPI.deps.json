@@ -31,7 +31,6 @@
     ".NETCoreApp,Version=v3.1": {
       "OrderFoodAPI/1.0.0": {
         "dependencies": {
-          "Ionic.Zip-1.9.1.8": "1.9.1.8",
           "Microsoft.ApplicationInsights.WorkerService": "2.20.0",
           "Microsoft.AspNetCore.Hosting.WindowsServices": "3.1.12",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "3.1.8",
@@ -323,17 +322,6 @@
             "assemblyVersion": "2.8.0.0",
             "fileVersion": "2.8.26.1919"
           }
-        }
-      },
-      "Ionic.Zip-1.9.1.8/1.9.1.8": {
-        "runtime": {
-          "lib/Ionic.Zip.dll": {
-            "assemblyVersion": "1.9.1.8",
-            "fileVersion": "1.9.1.8"
-          }
-        },
-        "compile": {
-          "lib/Ionic.Zip.dll": {}
         }
       },
       "Microsoft.ApplicationInsights/2.20.0": {
@@ -3717,13 +3705,6 @@
       "sha512": "sha512-OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
       "path": "humanizer.core/2.8.26",
       "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
-    },
-    "Ionic.Zip-1.9.1.8/1.9.1.8": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-yXdEg/hIC91BndAALmTMeYPTXjOaVA5bWpdkvND+5HZQGnvX0Z2/BKTl5VUf7+LAj20Dox2upmFWj8GUtIMW4Q==",
-      "path": "ionic.zip-1.9.1.8/1.9.1.8",
-      "hashPath": "ionic.zip-1.9.1.8.1.9.1.8.nupkg.sha512"
     },
     "Microsoft.ApplicationInsights/2.20.0": {
       "type": "package",
